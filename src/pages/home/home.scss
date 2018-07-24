@@ -1,0 +1,41 @@
+page-home {
+
+    ion-slide {
+       
+        height: 100%;
+        background-size: cover;
+        background-repeat: no-repeat;
+        color: aliceblue;
+        align-content: center;
+        text-align: center;
+       opacity: 0.98;
+      }
+   
+      ion-slide img {
+        height: 150vh;
+        width: auto ;
+      }
+
+      ion-content
+      {
+        background-size: cover;
+        background-repeat: no-repeat;
+       
+      }
+   
+}
+h2{
+    text-align: center;
+    
+}
+.b
+{
+    margin-top:10%;
+}
+p{
+    text-align: center;
+    align-content: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font: 1.1em sans-serif;
+}
+

@@ -1,0 +1,49 @@
+page-information {
+    ion-content{
+        background-image: url('../../assets/imgs/de.jpg');
+        background-size: cover;
+        background-repeat: no-repeat;
+        opacity: 0.95;
+    }
+}
+.home{
+   
+    text-align: center;
+    align-content: center;
+}
+
+h2{
+    font-size: 30px;
+    color: aliceblue;
+    text-align: center;
+    
+
+}
+
+p{
+    color: aliceblue;
+    text-align: center;
+    align-content: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font: 1.2em sans-serif;
+
+}
+.b{
+    width: 75%;
+    margin-top: 5px;
+ 
+ }
+ .b:hover{
+     background-color: rgba(0, 206, 209, 0.486);
+ }
+
+ .f{
+    background-color: rgba(252, 252, 252, 0.219);
+    margin-top: 10px;
+    border-radius: 10%;
+    
+}
+.c{
+    margin-top: -5%;
+   
+}
